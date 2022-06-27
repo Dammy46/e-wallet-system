@@ -3,6 +3,7 @@ This system allow users to fund their account, transfer funds and withdraw from 
 
 # Features
 - Basic Authentication (Register & Login)
+- Get Profile
 - Set Wallet Pin
 - Fund Wallet
 - Verify Wallet Funding
